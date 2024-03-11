@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sreecharan03</h1>
+<h1 align="center">Hi 👋, I'm Sreecharan</h1>
 <h3 align="center">A passionate Software Developer from Andhra Pradesh, India.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreecharan03&label=Profile%20views&color=0e75b6&style=flat" alt="sreecharan03" /> </p>
 
 - 🔭 I’m currently working on **Deep learning, Machine Learning**
@@ -16,15 +17,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sreecharan_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreecharan_12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sree-charan-61030326a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sree-charan-61030326a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/charan333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/charan333" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sailaja.ch.524/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sailaja.ch.524/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_call_me_charan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_call_me_charan/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sreecharan08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sreecharan08" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/21981a4411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/21981a4411" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sree-charan-61030326a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-charan-61030326a" height="30" width="40" /></a>
+<a href="https://kaggle.com/charan333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="charan333" height="30" width="40" /></a>
+<a href="https://fb.com/sailaja.ch.524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sailaja.ch.524" height="30" width="40" /></a>
+<a href="https://instagram.com/_call_me_charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_call_me_charan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sreecharan08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreecharan08" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21981a4411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21981a4411" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/sree_charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sree_charan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sreecharan_12082003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sreecharan_12082003/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sree_charan/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sree_charan/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sreecharan_12082003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreecharan_12082003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sree_charan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sree_charan/" height="30" width="40" /></a>
 <a href="https://discord.gg/charan3890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="charan3890" height="30" width="40" /></a>
 </p>
 
