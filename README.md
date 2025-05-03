@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreecharan03&label=Profile%20views&color=0e75b6&style=flat" alt="sreecharan03" /> </p>
 
-- 🔭 I’m currently working on **Deep learning, Machine Learning**
+- 🔭 I’m currently working on **Deep learning, Machine Learning, Gen AI, Agentic AI**
 
 - 🌱 I’m currently learning **NLP, LLM, FLASK**
 
