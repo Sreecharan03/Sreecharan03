@@ -135,11 +135,10 @@ Here are a few highlights of my recent work:
 ### 📅 Contribution Calendar
 
 <p align="center">
-  <em>My GitHub activity over the past year.</em> <br/><br/>
-
-  <!-- Static Contribution Graph with TokyoNight Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreecharan03&theme=tokyonight&hide_border=true&hide_title=true" alt="Sreecharan's Contribution Graph (TokyoNight Theme)" />
-  <!-- Other good static themes: dracula, gruvbox, nord, react, github_dark -->
+  <!-- Contribution Graph with TokyoNight Theme and Month Labels -->
+  <!-- Removed hide_title=true to hopefully show month labels -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreecharan03&theme=tokyonight&hide_border=true" alt="Sreecharan's Contribution Graph (TokyoNight Theme)" />
+  <!-- If months still don't show, consider using github-metrics instead -->
 
 </p>
 
