@@ -40,7 +40,7 @@ Here are a few highlights of my recent work:
   <summary><b>📊 PromptQL-Agent: Natural Language to SQL</b></summary>
   <br>
   <a href="https://github.com/Sreecharan03/PromptQL-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=PromptQL-Agent&theme=tokyonight&show_owner=true" alt="PromptQL-Agent Repo Card"> <!-- Changed theme -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=PromptQL-Agent&theme=tokyonight&show_owner=true" alt="PromptQL-Agent Repo Card"> <!-- Theme: tokyonight -->
   </a>
   <br>
   <em>An agentic AI system designed to translate natural language questions into executable SQL queries, simplifying database interaction.</em>
@@ -51,7 +51,7 @@ Here are a few highlights of my recent work:
   <summary><b>📄 Agentic AI Loan Document Processor</b></summary>
   <br>
   <a href="https://github.com/Sreecharan03/Agentic-AI-Powered-Loan-Document-Processing-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Agentic-AI-Powered-Loan-Document-Processing-System&theme=tokyonight&show_owner=true" alt="Agentic AI Loan Doc Processor Repo Card"> <!-- Changed theme -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Agentic-AI-Powered-Loan-Document-Processing-System&theme=tokyonight&show_owner=true" alt="Agentic AI Loan Doc Processor Repo Card"> <!-- Theme: tokyonight -->
   </a>
   <br>
   <em>Leverages Agentic AI to automate the extraction, validation, and analysis of crucial information from loan application documents.</em>
@@ -62,7 +62,7 @@ Here are a few highlights of my recent work:
   <summary><b>🚗 Real-Time Vehicle Detection & Movement Analysis</b></summary>
   <br>
   <a href="https://github.com/Sreecharan03/Real-Time-Vehicle-Detection-and-Movement-Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Real-Time-Vehicle-Detection-and-Movement-Analysis&theme=tokyonight&show_owner=true" alt="Vehicle Detection Repo Card"> <!-- Changed theme -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Real-Time-Vehicle-Detection-and-Movement-Analysis&theme=tokyonight&show_owner=true" alt="Vehicle Detection Repo Card"> <!-- Theme: tokyonight -->
   </a>
   <br>
   <em>Implements computer vision techniques (like YOLO) for detecting vehicles in real-time video streams and analyzing their movement patterns.</em>
@@ -73,7 +73,7 @@ Here are a few highlights of my recent work:
   <summary><b>📝 Fine-Tuned LLM Summarization (Llama/Gemma)</b></summary>
   <br>
   <a href="https://github.com/Sreecharan03/Summarization-with-a-Custom-Fine-Tuned-LLaMA-AND-GEMMA-Models-via-Instruction-Based-Training">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Summarization-with-a-Custom-Fine-Tuned-LLaMA-AND-GEMMA-Models-via-Instruction-Based-Training&theme=tokyonight&show_owner=true" alt="LLM Summarization Repo Card"> <!-- Changed theme -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sreecharan03&repo=Summarization-with-a-Custom-Fine-Tuned-LLaMA-AND-GEMMA-Models-via-Instruction-Based-Training&theme=tokyonight&show_owner=true" alt="LLM Summarization Repo Card"> <!-- Theme: tokyonight -->
   </a>
   <br>
   <em>Focuses on text summarization by applying instruction-based fine-tuning techniques to open-source LLMs like Llama and Gemma.</em>
@@ -124,28 +124,23 @@ Here are a few highlights of my recent work:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreecharan03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="sreecharan03 GitHub Stats" width="48%"/> <!-- Changed theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreecharan03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="sreecharan03 Top Languages" width="48%"/> <!-- Changed theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreecharan03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="sreecharan03 GitHub Stats" width="48%"/> <!-- Theme: tokyonight -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreecharan03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="sreecharan03 Top Languages" width="48%"/> <!-- Theme: tokyonight -->
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreecharan03&theme=tokyonight&hide_border=true" alt="sreecharan03 GitHub Streak" width="60%"/> <!-- Changed theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreecharan03&theme=tokyonight&hide_border=true" alt="sreecharan03 GitHub Streak" width="60%"/> <!-- Theme: tokyonight -->
 </p>
 
 ---
 
-### 🐍 Animated Contribution Graph
+### 📅 Contribution Calendar
 
 <p align="center">
-  <em>Watch my contribution graph get eaten by the snake!</em> <br/><br/>
+  <em>My GitHub activity over the past year.</em> <br/><br/>
 
-  <!-- Default Snake Animation -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreecharan03&theme=snake&hide_border=true&hide_title=true" alt="Sreecharan's Contribution Graph Snake Animation" />
+  <!-- Static Contribution Graph with TokyoNight Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreecharan03&theme=tokyonight&hide_border=true&hide_title=true" alt="Sreecharan's Contribution Graph (TokyoNight Theme)" />
+  <!-- Other good static themes: dracula, gruvbox, nord, react, github_dark -->
 
-  <!-- Custom Colors Example (Uncomment to try - Pick your own hex codes!) -->
-  <!--
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreecharan03&theme=snake&hide_border=true&hide_title=true&color=00FFFF&line=FF00FF&point=FFFF00" alt="Custom Snake Animation" />
-  (Here color=aqua, line=magenta, point=yellow)
-  Find colors: https://htmlcolorcodes.com/
-  -->
 </p>
 
 ---
