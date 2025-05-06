@@ -42,7 +42,7 @@
         <li>⚡ Fun fact: <b>My commit messages are more emotional than my texts!</b></li>
       </ul>
       <p>
-        <a href="https://linkedin.com/in/sree-charan-61030326a">
+        <a href="https://www.linkedin.com/in/sreecharan1208/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="https://twitter.com/sreecharan_12">
